@@ -1,4 +1,4 @@
-# cristianrvenega2001-punto # ¡Hola! Soy Cristian Venega 👋
+# ¡Hola! Soy Cristian Venega 👋
 
 ### 📱 Android Developer | Kotlin Enthusiast
 
@@ -31,6 +31,7 @@ Bienvenido a mi rincón en GitHub. Soy un apasionado por el desarrollo de aplica
 - **[ZooApp](https://github.com/cristianrvenega2001-dot/ZooAppFinal)**: Aplicación con manejo de base de datos local y consumo de API REST.
 - **[PokeApp](https://github.com/cristianrvenega2001-dot/PokeApp)**: Explorador de Pokémon consumiendo una API externa con Retrofit.
 - **[Billetera Virtual](https://github.com/cristianrvenega2001-dot/BilleteraVIrtual)**: Simulación de una billetera digital funcional.
+- **[Inkript]**: plataforma para tuadores en TypeScript
 
 ---
 
