@@ -44,5 +44,6 @@ Bienvenido a mi rincón en GitHub. Soy un apasionado por el desarrollo de aplica
 
 ### 📊 Mis Estadísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cristianrvenega2001-dot&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristianrvenega2001-dot&layout=compact&theme=radical)
+<p aling="left">
+  <img src="https://vercel.app" alt="GitHub Stats" height="150" />
+  <img src="https://vercel.app" alt="Top Langs" height="150" />
